@@ -1,0 +1,1 @@
+{"uuid":"638ea965-fa47-47cc-beee-c7c6f6507fca","name":"SeleniumProject.setUp","children":["df7cb6db-0aa6-486b-bb78-00ce15e3a593"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1690392940362,"stop":1690392947597}],"afters":[],"start":1690392940361,"stop":1690392947598}
